@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
         port: 3000,
         host: '0.0.0.0',
       },
-      base: "/Jewellery_Flow/", // Add this line
+      base: "/", // Add this line
       plugins: [react()],
       resolve: {
         alias: {
