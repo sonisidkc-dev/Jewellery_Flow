@@ -1,0 +1,7 @@
+{
+  "name": "Jewelry Flow Tracker",
+  "description": "A visual production tracker for jewelry manufacturing. Features role-based dashboards, stage-based workflow transitions, and proof-of-work photo uploads.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
